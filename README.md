@@ -1,5 +1,4 @@
 # ToDoList
-Author Languages Stars
 List project.
 
 ![alt text](https://github.com/andreluizlq/ToDoList/blob/main/Layout.jpeg)
