@@ -21,6 +21,7 @@ $ git clone https://github.com/andreluizlq/ToDoList.git
 **Follow the steps below**
 ```
 # Install the dependencies
+$ yarn install
 
 # Run Expo
 $ Expo start
